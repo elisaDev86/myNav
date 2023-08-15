@@ -1,1 +1,1 @@
-# myNav
+# myNavThis project is a nice navbar with animation and a beautiful gradient background. To make it I used the Html, the CSS and to give some dynamism the Js. I hope it will be useful to all of you :-)
